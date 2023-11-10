@@ -4,7 +4,7 @@
 
 > Ténico em Informática para Internet - IFPI
 
-🔭 Atualmente estudando a linguagem C e Java
+🔭 Atualmente estudando a linguagem Java
 
 ----
 
