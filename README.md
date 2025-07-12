@@ -4,11 +4,7 @@
 
 > Ténico em Informática para Internet - IFPI
 
-🔭 Atualmente estudando a linguagem Java
-
-----
-
-[![wakatime](https://wakatime.com/badge/user/018afd66-1663-4ce8-a3ae-e8b5052795d8.svg)](https://wakatime.com/@018afd66-1663-4ce8-a3ae-e8b5052795d8)
+🔭 Next.js
 
 ----
 
