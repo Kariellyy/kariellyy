@@ -7,11 +7,6 @@
 
 > **Currently studying the 3nd semester of Systems Analysis and Development - IFPI CAPIC**
 
-**🔭 Currently learning TypeScript along with Next.js and Nest.js**
-
----
-
-
 🔭 Next.js
 
 ----
