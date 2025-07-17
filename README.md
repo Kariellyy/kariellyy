@@ -1,8 +1,16 @@
-## Olá, meu nome é <strong>Karielly!</strong>👋
+<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=header"/>
 
-> Graduando em Análise e Desenvolvimento de Sistemas - IFPI
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=6E92D2&vCenter=true&center=true&width=1000&lines=Karielly+de+Carvalho;Systems+Analysis+and+Development+Student;Federal+Institute+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
-> Ténico em Informática para Internet - IFPI
+> **Computer Technician in Internet Computing - IFPI CAPAU;**
+
+> **Currently studying the 3nd semester of Systems Analysis and Development - IFPI CAPIC**
+
+**🔭 Currently learning TypeScript along with Next.js and Nest.js**
+
+---
+
 
 🔭 Next.js
 
